@@ -1,19 +1,61 @@
 {
-  "names": [
-    "Abhay Prathap Singh",
-    "Akshay",
-    "Anuvind",
-    "Arjun Verma",
-    "Jaydeep Katri",
-    "KL Rahul",
-    "Nikhil",
-    "Nilesh",
-    "Rishabh Singh",
-    "Rohit Kanojiya",
-    "Satnam Singh",
-    "Sudarshan Rai",
-    "Vinay GB",
-    "Virat"
+  "members": [
+    {
+      name: "Abhay Prathap Singh",
+      id: ""
+    },
+    {
+      name: "Akshay",
+      id: ""
+    },
+    {
+      name: "Anuvind",
+      id: ""
+    },
+    {
+      name: "Arjun Verma",
+      id: ""
+    },
+    {
+      name: "Jaydeep Katri",
+      id: ""
+    },
+    {
+      name: "KL Rahul",
+      id: ""
+    },
+    {
+      name: "Nikhil",
+      id: ""
+    },
+    {
+      name: "Nilesh",
+      id: ""
+    },
+    {
+      name: "Rishabh Singh",
+      id: ""
+    },
+    {
+      name: "Rohit Kanojiya",
+      id: ""
+    },
+    {
+      name: "Satnam Singh",
+      id: ""
+    },
+    {
+      name: "Sudarshan Rai",
+      id: ""
+    },
+    {
+      name: "Vinay GB",
+      id: ""
+    },
+    {
+      name: "Virat",
+      id: ""
+    }
   ],
   "prfid": [
     14955296,
